@@ -20,7 +20,7 @@ img {
 #container {
   background-color: #099d6e97;
   text-align: center;
-  width: 800px;
+  width: 700px;
   margin: 48px auto 24px;
   padding: 48px;
   border-radius: 16px;
@@ -44,6 +44,11 @@ h2 {
 
 h3 {
   margin: 12px auto 6px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 150%;
 }
 
 footer {
