@@ -53,6 +53,7 @@ p {
 
 #subtitle {
   font-style: italic;
+  text-align: center;
 }
 
 ol {
@@ -66,4 +67,15 @@ li + li {
 
 img + li {
   margin-top: 20px;
+}
+
+#description {
+  text-align: center;
+}
+
+footer p{
+  font-family: "Alice", serif;
+  text-align: center;
+  margin: 48px auto;
+  line-height: 150%;
 }
