@@ -9,7 +9,6 @@ This project is an **vacation spot landing page** built with **HTML and CSS**. I
 ## 🚀 Stack  
 
 ### 🎨 CSS    
-- **Custom input and button styling** – Well-styled form elements, buttons, and scrollbar. 
 - **Grid and Flex**
 
 ### 📄 HTML  
